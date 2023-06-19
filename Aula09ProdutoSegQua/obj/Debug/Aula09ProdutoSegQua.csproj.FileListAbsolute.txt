@@ -1,0 +1,7 @@
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\bin\Debug\Aula09ProdutoSegQua.exe.config
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\bin\Debug\Aula09ProdutoSegQua.exe
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\bin\Debug\Aula09ProdutoSegQua.pdb
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\obj\Debug\Aula09ProdutoSegQua.csproj.AssemblyReference.cache
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\obj\Debug\Aula09ProdutoSegQua.csproj.CoreCompileInputs.cache
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\obj\Debug\Aula09ProdutoSegQua.exe
+C:\Users\luis.fpcunha\source\repos\Aula09ProdutoSegQua\Aula09ProdutoSegQua\obj\Debug\Aula09ProdutoSegQua.pdb
